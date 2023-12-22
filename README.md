@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Vitor. I just completed a full-stack web development intensive bootcamp which gave me the opportunity to learn a great amount of technical and non-technical skills.
+ 
+As soon as I finished the program I realized that I had to look for a job where I could improve everything I learned. That is the reason why I am looking for a role where I can hone the skills learned during my time studying, and also add new technical and non-technical skills to my stack. 
+
+I have always loved a good challenge and I believe applying for a role where I can challenge myself everyday by learning from others, completing tasks timely. The passion that I have for coding began when I decided to learn how video games were made (programmed). 
+
+When I am not working or learning about new tech, I am most likely playing football, drawing, gaming or making music. Since I was little I had a passion for learning something new to make it a hobby, I also love to keep my hobbies active.
 <!--
 **vitor-fernandess/vitor-fernandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
